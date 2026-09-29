@@ -8,3 +8,6 @@
 [submodule "summarisebig"]
 	path = summarisebig
 	url = https://github.com/larry77/summarisebig
+[submodule "xmlrectr"]
+	path = xmlrectr
+	url = https://github.com/larry77/xmlrectr
